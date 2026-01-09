@@ -1,0 +1,3 @@
+model_type,mse,r2_score,accuracy
+Linear Regression,144134136541.03558,0.9834784346009817,
+Logistic Regression,,,1
