@@ -24,6 +24,7 @@ Chương trình hỗ trợ 2 bài toán:
 -Pandas
 -Matplotlib
 -Scikit_learn
+-Os
 
 ## Chạy chương trình
 ```bash
