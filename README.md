@@ -31,4 +31,4 @@ Chương trình hỗ trợ 2 bài toán:
 python BSM.py
 ```
 ## Kết quả
-<img width="45%" height="478" alt="Screenshot 2026-01-09 at 21 49 44" src="https://github.com/user-attachments/assets/82600937-7f81-4a2e-b8ca-a40e01ec9a2f" /> <img width="45%" height="468" alt="Screenshot 2026-01-09 at 21 50 01" src="https://github.com/user-attachments/assets/c9516257-de9f-4788-8955-335a792087be" />
+<img width="45%" height="478" alt="Screenshot 2026-01-09 at 21 49 44" src="https://github.com/user-attachments/assets/82600937-7f81-4a2e-b8ca-a40e01ec9a2f" /> <img width="45%" height="478" alt="Screenshot 2026-01-09 at 21 50 01" src="https://github.com/user-attachments/assets/c9516257-de9f-4788-8955-335a792087be" />
