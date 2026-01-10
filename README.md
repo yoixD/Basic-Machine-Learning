@@ -5,7 +5,8 @@ Dự án triển khai các thuật toán Machine Learning cơ bản sử dụng 
 
 Chương trình hỗ trợ 2 bài toán:
 1. **Linear Regression**: Hồi quy tuyến tính (Dự đoán giá trị thực).
-2. **Logistic Regression**: Hồi quy Logistic (Phân loại).
+   
+3. **Logistic Regression**: Hồi quy Logistic (Phân loại).
 
 ## Cấu trúc thư mục
 ```text
@@ -15,15 +16,22 @@ Chương trình hỗ trợ 2 bài toán:
 ```
 ## Tính năng
 - Preprocessing: Tiền xử lý dữ liệu đầu vào.
+  
 -Standard Scaler: Chuẩn hoá dữ liệu để tối ưu hoá quá trình huấn luyện mô hình.
+
 -Tracking: Tự động lưu log kết quả vào file CSV.
 
 ## Yêu cầu
 -Python 3.x
+
 -NumPy
+
 -Pandas
+
 -Matplotlib
+
 -Scikit_learn
+
 -Os
 
 ## Chạy chương trình
