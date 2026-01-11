@@ -19,7 +19,7 @@ Chương trình hỗ trợ 2 bài toán:
   
 -Standard Scaler: Chuẩn hoá dữ liệu để tối ưu hoá quá trình huấn luyện mô hình.
 
--Tracking: Tự động lưu log kết quả vào file CSV.
+-Tracking: Tự động lưu kết quả vào file CSV.
 
 ## Yêu cầu
 -Python 3.x
