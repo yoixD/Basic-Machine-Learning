@@ -1,42 +1,45 @@
 # BASIC MACHINE LEARNING
 
-## Mô tả
-Dự án triển khai các thuật toán Machine Learning cơ bản sử dụng Python để giải quyết bài toán dự đoán lương dựa trên số năm kinh nghiệm.
+## Description
+The project implements basic Machine Learning algorithms using Python to solve the problem of predicting salary based on years of experience.
 
-Chương trình hỗ trợ 2 bài toán:
-1. **Linear Regression**: Hồi quy tuyến tính (Dự đoán giá trị thực).
+The program supports 2 problems:
+1. **Linear Regression**: Predicting real values
    
-3. **Logistic Regression**: Hồi quy Logistic (Phân loại).
+2. **Logistic Regression**: Classification
 
-## Cấu trúc thư mục
+## Directory Structure
 ```text
-├── BSM.py                # Mã nguồn chính (Chạy dự đoán)
-├── dataset.csv           # Dữ liệu đầu vào
-└── history_training.csv  # Lưu trữ lịch sử kết quả train
+├── BSM.py                # Main source code (Run prediction)
+├── dataset.csv           # Input data
+└── history_training.csv  # Stores training history results
 ```
-## Tính năng
-- Preprocessing: Tiền xử lý dữ liệu đầu vào.
+## Features
+
+- Preprocessing: Pre-process input data.
   
--Standard Scaler: Chuẩn hoá dữ liệu để tối ưu hoá quá trình huấn luyện mô hình.
+- Standard Scaler: Standardize data to optimize the model training process.
 
--Tracking: Tự động lưu kết quả vào file CSV.
+- Evaluation: Calculate prediction lines.
 
-## Yêu cầu
--Python 3.x
+- Tracking: Automatically save results to a CSV file.
 
--NumPy
+## Requirements
+- Python 3.x
 
--Pandas
+- NumPy
 
--Matplotlib
+- Pandas
 
--Scikit_learn
+- Matplotlib
 
--Os
+- Scikit_learn
 
-## Chạy chương trình
+- Os
+
+## Run the program
 ```bash
 python BSM.py
 ```
-## Kết quả
+## Results
 <img width="45%" height="300" alt="Screenshot 2026-01-09 at 21 49 44" src="https://github.com/user-attachments/assets/82600937-7f81-4a2e-b8ca-a40e01ec9a2f" /> <img width="45%" height="300" alt="Screenshot 2026-01-09 at 21 50 01" src="https://github.com/user-attachments/assets/c9516257-de9f-4788-8955-335a792087be" />
